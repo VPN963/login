@@ -23,6 +23,12 @@
 "4000": {
    "password": "$2y$12$5a8Go.LYUohm1tyvtCJqb.3FsJmavsMe9z9Q5uxuwWID6.EDgkShS",
    "expiry": "15-09-2023 9:59 PM"
+},
+
+
+"5000": {
+   "password": "$2y$12$D072mTlBv2gmv/3a4Ln9Vu2oywyPTgJT/0IAX46O1tFipS4evwQyO",
+   "expiry": "15-09-2023 11:59 PM"
 }
 
 
