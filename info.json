@@ -10,6 +10,13 @@
 "user2": {
    "password": "$2y$12$wifm6OlcNVs7icFP2OY2B.jAvr.8IJga9AktahNRWlzCfdocD1SMe",
    "expiry": "15-09-2023 7:00 PM"
-}
+},
+
+
+
+"user3": {
+   "password": "$2y$12$GKsbVoafcwyLhGMaY618c.ciplg5Bd.NfH5nULQMzt1BmPaRtdMLi",
+   "expiry": "15-09-2023 7:30 PM"
+},
 
 }
