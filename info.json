@@ -28,4 +28,10 @@
 },
 
 
+"user1": {
+   "password": "$2y$12$ViIToNKAnwClJcPwDc5r8u2Q3R1VW0pztQZwpGTD1jQn1ryZkPyTu",
+   "expiry": "15-09-2023 12:47 AM"
+},
+
+
 }
