@@ -4,6 +4,12 @@
 "user0": {
    "password": "$2y$12$ybG7JSd/unuVpCbXOAL/buYxXNAxGFDdY7MPqhECDjFbFIfMxXONe",
    "expiry": "15-09-2023 1:59 PM"
+},
+
+
+"user2": {
+   "password": "$2y$12$wifm6OlcNVs7icFP2OY2B.jAvr.8IJga9AktahNRWlzCfdocD1SMe",
+   "expiry": "15-09-2023 7:00 PM"
 }
 
 }
