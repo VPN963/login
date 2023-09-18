@@ -57,6 +57,13 @@
 "0011": {
    "password": "$2y$12$mCO9wzJTR3X7MlA9EZOdT.C5U3ga.6ibFB.eHs4PzbmmJgrxMVCJq",
    "expiry": "17-10-2023 12:00 PM"
+},
+
+
+"yasin": {
+   "password": "$2y$12$UskeGcvgfP8TAUmD76SWZ.1NZAoxGaG/qq3mleSSFbAsDuTH3OgEO",
+   "expiry": "31-01-2025 12:00 PM"
 }
+
 
 }
