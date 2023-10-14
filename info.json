@@ -142,6 +142,11 @@
 "0024": {
    "password": "$2y$12$Bgh99qCuBzQC8ckUsp7JXeRexq5c/ZSyab1agXsam3KGzBxcTgKva",
    "expiry": "14-11-2023 12:00 PM"
+},
+
+"test": {
+   "password": "$2y$12$4WS.cE6KVhxbpwFf.kMz7uTmoKR8pzUNGM73GTl64/gYAtti6yMxO",
+   "expiry": "13-10-2023 12:00 PM"
 }
 
 
